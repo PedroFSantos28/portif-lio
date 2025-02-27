@@ -1,0 +1,99 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portifólio</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+    <div class="container">
+        <nav>
+            <ul>
+                <li> <a href="index.html">Sobre mim</a>
+                </li>
+                <li>
+                    <a href="project.html">Projetos</a>
+                </li>
+                <li>
+                    <a href="contact.html">Contatos</a>
+                </li>
+             </ul>
+         </nav>
+ 
+ 
+     <header>
+         <div class="center">
+             <img src="./img/img-port.jpg"></img>
+         </div>
+         <h1>Pedro Felipe</h1>
+         <h2>Estudante de ADS</h2>
+     </header>
+ 
+     <main>
+         <section>
+             <h3>Sobre mim</h3>
+             <p>
+                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                 Dolorem unde doloremque iste vitae sint neque laborum enim quam modi. 
+                 Nisi omnis culpa nostrum! Hic harum dolore fugiat eaque,
+                 ratione repellendus. 
+ 
+             </p>
+         </section>
+ 
+ 
+ 
+         <section>
+             <h3>Formsção</h3>
+             <p>
+                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                 Dolorem unde doloremque iste vitae sint neque laborum enim quam modi. 
+                 Nisi omnis culpa nostrum! Hic harum dolore fugiat eaque,
+                 ratione repellendus. 
+ 
+             </p>
+         </section>
+ 
+ 
+ 
+         <section>
+             <h3>Cursos</h3>
+             <p>
+                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                 Dolorem unde doloremque iste vitae sint neque laborum enim quam modi. 
+                 Nisi omnis culpa nostrum! Hic harum dolore fugiat eaque,
+                 ratione repellendus. 
+ 
+             </p>
+         </section>
+     </main>
+ 
+     <footer>
+            <a href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer">
+                <img src="./img/linkedin.svg"></img>
+                <p>Linkedin</p>
+            </a>
+         
+             <a href="https://github.com/PedroFSantos28" target="_blank" rel="noopener noreferrer">
+                <img src="./img/github (1).svg"></img>
+                <p>Github</p>
+         
+         
+             </a>
+ 
+     </footer>
+
+    </div>
+    
+    </a>
+    
+        
+        </a>
+
+    </footer>
+
+
+</body>
+</html>
